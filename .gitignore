@@ -27,7 +27,6 @@ env/
 ENV/
 
 # IDE
-.vscode/
 .idea/
 .codex/
 *.swp
@@ -230,3 +229,7 @@ nautilus_gold_scalper/data/raw/
 
 # Scratch test files
 teste.py
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
